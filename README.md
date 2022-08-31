@@ -7,7 +7,7 @@ The motivation of this project is to refactor existing code from a marketing age
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The following tools were used for the development and testing of this project.
 Web Browser (Google Chrome preferred)
 Code development IDE (Microsoft VS Code)
 
