@@ -4,6 +4,7 @@
 
 The motivation of this project is to refactor existing code from a marketing agency to meet web accessibility standards. Web accessbility ensures that people with disabilities can access websites using assistive technologies and helps to organize code by providing semantics. In this activity, some lessons learned are the importance of logical organization and semantics to help other developers easily interpret your code. 
 
+![](assets/images/screenshot.jpg)
 Link to website: https://seangshin.github.io/refactoring-web-accessibility-project/
 
 ## Installation
